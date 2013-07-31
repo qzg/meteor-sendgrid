@@ -1,1 +1,1 @@
-MailListener = Npm.require('sendgrid');
+Sendgrid = Npm.require('sendgrid');
